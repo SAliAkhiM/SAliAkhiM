@@ -4,8 +4,8 @@
      ========================================================================== -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1000&color=76C457&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Seyed+Ali+Akhavan+(SAliAkhiM)+👋;Computer+Engineering+Student+@+Isfahan+Univ+of+Tech+🎓;Full-Stack+Developer+%26+Systems+Software+Enthusiast+💻;Crafting+Scalable+Architectures+%26+Clean+Code+⚡;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2800&pause=1000&color=76C457&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Seyed+Ali+Akhavan+(SAliAkhiM);Computer+Engineering+Student+at+IUT;Full-Stack+Developer+and+Systems+Software;Crafting+Scalable+Architectures+and+Clean+Code;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </div>
 
