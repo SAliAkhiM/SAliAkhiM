@@ -1,6 +1,6 @@
 <!-- ==========================================================================
-     Seyed Ali Akhavan (SAliAkhiM) — GitHub Profile README
-     Cyber-Luxury Green Theme (#2A7C13 & #76C457) · Dynamic Stats · Snake Animation
+     Seyed Ali Akhavan (SAliAkhiM) — GitHub Profile README (Direct Live Version)
+     Live APIs · Zero Build Step Required · Green Cyber-Luxury Palette
      ========================================================================== -->
 
 <div align="center">
@@ -26,7 +26,7 @@
 <!-- GitHub Activity Graph -->
 <div align="center">
   <a href="https://github.com/SAliAkhiM" target="_blank" rel="noopener noreferrer">
-    <img width="90%" src="https://raw.githubusercontent.com/SAliAkhiM/SAliAkhiM/output/activity-graph.svg" alt="Seyed Ali Activity Graph" />
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SAliAkhiM&theme=react-dark&bg_color=070b08&color=76c457&line=2a7c13&point=76c457&area=true&hide_border=true" alt="SAliAkhiM Activity Graph" />
   </a>
 </div>
 
@@ -35,10 +35,10 @@
 <!-- GitHub Stats & Top Languages -->
 <div align="center">
   <a href="https://github.com/SAliAkhiM" target="_blank" rel="noopener noreferrer">
-    <img width="49%" height="auto" src="https://raw.githubusercontent.com/SAliAkhiM/SAliAkhiM/output/stats.svg" alt="Seyed Ali GitHub Stats" />
+    <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SAliAkhiM&show_icons=true&theme=tokyonight&bg_color=070b08&title_color=76c457&icon_color=76c457&text_color=9cb59c&border_color=182a1b&hide_border=false" alt="SAliAkhiM GitHub Stats" />
   </a>
   <a href="https://github.com/SAliAkhiM" target="_blank" rel="noopener noreferrer">
-    <img width="41%" height="auto" src="https://raw.githubusercontent.com/SAliAkhiM/SAliAkhiM/output/top-langs.svg" alt="Seyed Ali Top Languages" />
+    <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAliAkhiM&layout=compact&theme=tokyonight&bg_color=070b08&title_color=76c457&text_color=76c457&border_color=182a1b&hide_border=false" alt="SAliAkhiM Top Languages" />
   </a>
 </div>
 
@@ -47,7 +47,7 @@
 <!-- Streak Stats -->
 <div align="center">
   <a href="https://github.com/SAliAkhiM" target="_blank" rel="noopener noreferrer">
-    <img height="auto" width="91%" src="https://raw.githubusercontent.com/SAliAkhiM/SAliAkhiM/output/streak.svg" alt="Seyed Ali Streak Stats" />
+    <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=SAliAkhiM&theme=black-ice&hide_border=true&stroke=0000&background=070b08&ring=76C457&fire=76C457&currStreakLabel=76C457" alt="SAliAkhiM Streak Stats" />
   </a>
 </div>
 
@@ -66,18 +66,6 @@
 
 </div>
 
-<br />
-
-<!-- Contribution Grid Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAliAkhiM/SAliAkhiM/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAliAkhiM/SAliAkhiM/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/SAliAkhiM/SAliAkhiM/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br />
 <br />
 
 <!-- Software Engineering Daily Quote -->
