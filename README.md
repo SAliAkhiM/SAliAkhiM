@@ -1,11 +1,11 @@
 <!-- ==========================================================================
-     Seyed Ali Akhavan (SAliAkhiM) — GitHub Profile README
+     Seyed Ali (SAliAkhiM) — GitHub Profile README
      Cyber-Luxury Green Theme (#2A7C13 & #76C457) · Dynamic Stats · Snake Animation
      ========================================================================== -->
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2800&pause=1000&color=76C457&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Seyed+Ali+Akhavan+(SAliAkhiM);Computer+Engineering+Student+at+IUT;Full-Stack+Developer+and+Systems+Software;Crafting+Scalable+Architectures+and+Clean+Code;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2800&pause=1000&color=76C457&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Seyed+Ali+(SAliAkhiM);Computer+Engineering+Student+at+IUT;Full-Stack+Developer+and+Systems+Software;Crafting+Scalable+Architectures+and+Clean+Code;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/saliakhim" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seyedali.akhavan@gmail.com">
+  <a href="mailto:SAliAkhiM83@gmail.com">
     <img src="https://img.shields.io/badge/Email-seyedali.akhavan@gmail.com-76C457?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -90,5 +90,5 @@
 ---
 
 <div align="center">
-  <sub>created with 🍀 &amp; ☕ by <a href="https://saliakhim.github.io/"><strong>Seyed Ali Akhavan (SAliAkhiM)</strong></a></sub>
+  <sub>created with 🍀 &amp; ☕ by <a href="https://saliakhim.github.io/"><strong>Seyed Ali (SAliAkhiM)</strong></a></sub>
 </div>
