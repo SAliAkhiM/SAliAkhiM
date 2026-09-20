@@ -90,5 +90,5 @@
 ---
 
 <div align="center">
-  <sub>created with 🍀 &amp; ☕ by <a href="https://saliakhim.github.io/"><strong>Seyed Ali (SAliAkhiM)</strong></a></sub>
+  <sub>created by <a href="https://saliakhim.github.io/"><strong>Seyed Ali (SAliAkhiM)</strong></a></sub>
 </div>
